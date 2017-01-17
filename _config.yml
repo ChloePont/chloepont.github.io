@@ -5,7 +5,7 @@ description:        "I am an eager-to-learn, healthcare enthusiast and data scie
 reading_time:       true
 words_per_minute:   200
 logo:               'https://avatars.githubusercontent.com/chloepont'
-background:         'assets/img/connectome'
+background:         'assets/img/connectome.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://chloepont.github.io
